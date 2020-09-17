@@ -1,0 +1,2 @@
+rootProject.name='Smjesne Reci'
+include ':app'
